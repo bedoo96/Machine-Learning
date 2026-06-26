@@ -1,0 +1,13 @@
+# Python virtual environments
+ML/
+env/
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
